@@ -38,8 +38,3 @@ let package = Package(
 ```shell
 swift build -c release
 ```
-
-## Tests
-```shell
-swift test --enable-test-discovery --sanitize=thread
-```
