@@ -8,7 +8,7 @@ let package = Package(
         .library(name: "ChaqmoqConsole", targets: ["Console"])
     ],
     dependencies: [
-        .package(url: "https://github.com/apple/swift-argument-parser", from: "0.4.4")
+        .package(url: "https://github.com/apple/swift-argument-parser", from: "1.0.0")
     ],
     targets: [
         .target(name: "Console", dependencies: [
