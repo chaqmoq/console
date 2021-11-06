@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "chaqmoq-console",
     products: [
-        .library(name: "ChaqmoqConsole", targets: ["Console"])
+        .library(name: "Console", targets: ["Console"])
     ],
     dependencies: [
         .package(url: "https://github.com/apple/swift-argument-parser", from: "1.0.0")
