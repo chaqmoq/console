@@ -6,6 +6,7 @@
         <a href="https://github.com/chaqmoq/console/actions"><img src="https://github.com/chaqmoq/console/workflows/ci/badge.svg" /></a>
         <a href="https://www.codacy.com/gh/chaqmoq/console/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chaqmoq/console&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/bf433af6cc5940949964b1dc25bc7362" /></a>
         <a href="https://codecov.io/gh/chaqmoq/console"><img src="https://codecov.io/gh/chaqmoq/console/branch/main/graph/badge.svg?token=3zEcxxgxjb" /></a>
+        <a href="https://sonarcloud.io/project/overview?id=chaqmoq_console"><img src="https://sonarcloud.io/api/project_badges/measure?project=chaqmoq_console&metric=alert_status" /></a>
         <a href="https://chaqmoq.dev/console/"><img src="https://github.com/chaqmoq/console/raw/gh-pages/badge.svg" /></a>
         <a href="https://github.com/chaqmoq/console/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributing-guide-brightgreen.svg" /></a>
         <a href="https://twitter.com/chaqmoqdev"><img src="https://img.shields.io/badge/twitter-chaqmoqdev-brightgreen.svg" /></a>
